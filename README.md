@@ -1,6 +1,7 @@
 # Icon Transformer
 
 Clean up SVGs with one command. No compiling required, only pure Node.
+- Fork of https://github.com/floatingdino/Icon-Transformer
 
 ## Usage
 

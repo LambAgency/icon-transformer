@@ -1,7 +1,7 @@
 {
-  "name": "icon-transformer",
-  "version": "1.3.0",
-  "description": "Clean and prepare SVG icons for use",
+  "name": "icon-transformer-lamb",
+  "version": "1.0.0",
+  "description": "Clean and prepare SVG icons for use - forked by Lamb Agency",
   "main": "dist/main.js",
   "bin": {
     "icon-transformer": "./bin.cjs",
@@ -18,11 +18,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/floatingdino/Icon-Transformer.git"
+    "url": "https://github.com/LambAgency/icon-transformer.git"
   },
-  "author": "Sam Haakman (floatingdino@gmail.com)",
   "license": "MIT",
-  "homepage": "https://github.com/floatingdino/Icon-Transformer",
+  "homepage": "https://github.com/LambAgency/icon-transformer.git",
   "dependencies": {
     "cheerio": "^1.0.0-rc.3",
     "svgo": "^1.3.2",
