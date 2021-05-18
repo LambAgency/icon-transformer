@@ -1,6 +1,6 @@
 {
   "name": "icon-transformer-lamb",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Clean and prepare SVG icons for use - forked by Lamb Agency",
   "main": "dist/main.js",
   "bin": {
